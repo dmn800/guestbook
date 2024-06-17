@@ -1,0 +1,70 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+
+label, input, textarea {
+    display: block;
+    width: 90%;
+    margin-bottom: 5px;
+}
+
+input[type="submit"] {
+    width: auto;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+th a {
+    text-decoration: none;
+    color: black;
+}
+
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+div a {
+    margin: 0 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: #ddd;
+    border-radius: 3px;
+}
+
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+div a {
+    margin: 0 5px;
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: #ddd;
+    border-radius: 3px;
+}
